@@ -1,30 +1,17 @@
-# ML/DL Course Projects
+# CMPE160 Course Projects
 
-This is my repository for projects completed as part of my Tensorflow for Deep Learning Bootcamp. In these projects, I explored key ML/DL concepts and applied them to real-world datasets.
+This is my repository for projects completed as part of the **CMPE160**. In this course, I learned the fundamentals of Object-Oriented Programming along with essential data structures and algorithms.
 
 ## Overview
 
-This repository includes a variety of projects that demonstrate essential ML/DL techniques, including:
+This repository includes a variety of projects that demonstrate key concepts such as:
 
-**Computer Vision**: Image classification, object detection, or segmentation using convolutional neural networks (CNNs).
-
-**Natural Language Processing (NLP)**: Text classification, sentiment analysis, or sequence modeling using recurrent and transformer-based models.
-
-**Time Series Forecasting**: Predicting trends and analyzing time-dependent data using LSTMs and other sequence models.
-
-## Technologies Used
-
-Frameworks & Libraries: TensorFlow, Keras, NumPy, Pandas, Matplotlib, Scikit-Learn
-
-Development Environment: Jupyter Notebook
+- **Object-Oriented Programming (OOP):** Classes, objects, inheritance, encapsulation, polymorphism, abstraction, analyzing UML Diagrams etc.
+- **Data Structures & Algorithms:** Implementation and use of basic data structures (arrays, lists, trees, etc.) and algorithms such as Dijkstra and Ant Colony Optimization.
 
 ## Repository Structure
 
 Each project is organized in its own folder containing:
-
-Jupyter Notebooks: The main codebase with explanations and results.
-
-Datasets: Sample datasets used for training and testing.
-
-Reports & Documentation: Descriptions, methodologies, pseudocode, and performance analysis.
-
+- **Source Code:** The main codebase for the project.
+- **Documentation:** A description file with setup instructions and project details. Also pseudocodes and results provided in a report file.
+- **Testcases:** Sample test cases or scripts to validate functionality.
